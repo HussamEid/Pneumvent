@@ -1,0 +1,264 @@
+Change Component Footprint: Designator=D2 Old Footprint=TVS New Footprint=DIONM5436X265N
+Change Component Comment : Designator=D2 Old Comment=DF2B26M4SL,L3F New Comment=SM6T22CAY
+Change component parameters: Designator = "C27"; Footprint = "CAPAE630X580N"; UniqueID = "\QOZYISBN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1809091706_ST-Semtech-CK0J221M-CRE54_C131163.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = " ROQANG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "VT1V470M0605"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1809091706_ST-Semtech-CK0J221M-CRE54_C131163.pdf"; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = " ROQANG"; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "VT1V470M0605"; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "LeVentilateur-Proto"
+Change component parameters: Designator = "C28"; Footprint = "CAPAE830X1050N"; UniqueID = "\QOPUZZVH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = " ST(Semtech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CK1C471M-CRF10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "DIONM5436X265N"; UniqueID = "\TRAWSVWE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Breakdown Voltage"; Value = "23.1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1.35nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Clamping Voltage"; Value = "39.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/15143/getdatasheetpartid-92247-15143399.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/15143/getdatasheetpartid-92247-15143399.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/26787/sm6t22ca-26787583.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/26787/sm6t22ca-26787583.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/338/cd00000725-338070.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/338/cd00000725-338070.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/7965/1761324-7965494.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/7965/1761324-7965494.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/338/cd00000725-338071.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/338/cd00000725-338071.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/338/cd00000725-338072.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/338/cd00000725-338072.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/3022/cd00000725-3022077.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/3022/cd00000725-3022077.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/16209/cd00000725-16209773.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/16209/cd00000725-16209773.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.ciiva.com/7973/1761324-7973422.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.ciiva.com/7973/1761324-7973422.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.ciiva.com/7973/1761324-7973423.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.ciiva.com/7973/1761324-7973423.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.ciiva.com/14161/xbsm6t-data-e-14161807.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.ciiva.com/14161/xbsm6t-data-e-14161807.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Zener"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/sm6ty.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "TVS DIODE 18.8V 30.6V SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESD Protection"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "200nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM6T22CAY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SM6T22CA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Breakdown Voltage"; Value = "23.1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "5W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Leakage Current"; Value = "200nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = "20A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Breakdown Voltage"; Value = "20.9V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-SM6T22CAY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-SM6T22CAY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bidirectional Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "18.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Pulse Current"; Value = "102A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Pulse Power"; Value = "600W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "600W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Line Protection"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1 = 0.46000, 10 = 0.39600, 25 = 0.36960, 100 = 0.27460, 250 = 0.26084, 500 = 0.21436, 1000 = 0.17424 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "20.9V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Standoff Voltage"; Value = "18.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS 1"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "7957219P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7957219P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "8808"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "497-3507-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Current"; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "22V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "3.95mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=05-Alarm Member=Component B1 Buzzer
+Added Member To Class: ClassName=01-Power Member=Component C1 0.1uF
+Added Member To Class: ClassName=01-Power Member=Component C2 47uF
+Added Member To Class: ClassName=01-Power Member=Component C3 10uF
+Added Member To Class: ClassName=01-Power Member=Component C4 22uF
+Added Member To Class: ClassName=01-Power Member=Component C5 22uF
+Added Member To Class: ClassName=02-MCU Member=Component C6 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C7 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C8 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C9 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C10 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C11 2.2uF
+Added Member To Class: ClassName=02-MCU Member=Component C12 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C13 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C14 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C15 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C16 0.1uF
+Added Member To Class: ClassName=01-Power Member=Component C17 0.33uF
+Added Member To Class: ClassName=02-MCU Member=Component C18 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C19 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C20 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C21 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C22 4.7uF
+Added Member To Class: ClassName=02-MCU Member=Component C23 2.2uF
+Added Member To Class: ClassName=02-MCU Member=Component C24 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C25 0.1uF
+Added Member To Class: ClassName=02-MCU Member=Component C26 1uF
+Added Member To Class: ClassName=01-Power Member=Component C27 47uF
+Added Member To Class: ClassName=01-Power Member=Component C28 470uF
+Added Member To Class: ClassName=06-User Interface Member=Component C29 0.1uF
+Added Member To Class: ClassName=06-User Interface Member=Component C30 10uF
+Added Member To Class: ClassName=06-User Interface Member=Component C31 10uF
+Added Member To Class: ClassName=01-Power Member=Component C39 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C43 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C44 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C45 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C46 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C47 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C48 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C49 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C50 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C51 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C52 0.1uF
+Added Member To Class: ClassName=06-User Interface Member=Component C53 0.1uF
+Added Member To Class: ClassName=06-User Interface Member=Component C54 0.1uF
+Added Member To Class: ClassName=06-User Interface Member=Component C55 0.1uF
+Added Member To Class: ClassName=06-User Interface Member=Component C56 0.1uF
+Added Member To Class: ClassName=06-User Interface Member=Component C57 0.1uF
+Added Member To Class: ClassName=06-User Interface Member=Component C58 0.1uF
+Added Member To Class: ClassName=06-User Interface Member=Component C59 0.1uF
+Added Member To Class: ClassName=06-User Interface Member=Component C60 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C61 0.1uF
+Added Member To Class: ClassName=04-Sensors Member=Component C62 0.1uF
+Added Member To Class: ClassName=01-Power Member=Component D1 SK520TR
+Added Member To Class: ClassName=01-Power Member=Component D2 SM6T22CAY
+Added Member To Class: ClassName=02-MCU Member=Component D3 ESDALC6V1-1U2
+Added Member To Class: ClassName=01-Power Member=Component D4 SK520TR
+Added Member To Class: ClassName=03-Actuators Member=Component D5 SK520TR
+Added Member To Class: ClassName=01-Power Member=Component D6 SK520TR
+Added Member To Class: ClassName=02-MCU Member=Component IC1 STM32F401VCT6
+Added Member To Class: ClassName=02-MCU Member=Component IC2 ESDALC6V1W5
+Added Member To Class: ClassName=03-Actuators Member=Component IC3 LTV-847S
+Added Member To Class: ClassName=01-Power Member=Component IC4 UA78L12ACD
+Added Member To Class: ClassName=04-Sensors Member=Component IC5 IA
+Added Member To Class: ClassName=04-Sensors Member=Component IC6 DIFF_SENSOR
+Added Member To Class: ClassName=04-Sensors Member=Component IC7 50KPA
+Added Member To Class: ClassName=04-Sensors Member=Component IC8 100KPA
+Added Member To Class: ClassName=04-Sensors Member=Component IC9 IA
+Added Member To Class: ClassName=04-Sensors Member=Component IC10 IA
+Added Member To Class: ClassName=06-User Interface Member=Component IC11 LCD
+Added Member To Class: ClassName=06-User Interface Member=Component IC12 LMC7660IM_NOPB
+Added Member To Class: ClassName=01-Power Member=Component J1 2POS TERM
+Added Member To Class: ClassName=01-Power Member=Component J2 2POS TERM
+Added Member To Class: ClassName=02-MCU Member=Component J3 Header 6
+Added Member To Class: ClassName=03-Actuators Member=Component J4 2POS TERM
+Added Member To Class: ClassName=03-Actuators Member=Component J9 2POS TERM
+Added Member To Class: ClassName=03-Actuators Member=Component J10 2POS TERM
+Added Member To Class: ClassName=03-Actuators Member=Component J11 2POS TERM
+Added Member To Class: ClassName=03-Actuators Member=Component J12 2POS TERM
+Added Member To Class: ClassName=01-Power Member=Component L1 3.9uH
+Added Member To Class: ClassName=02-MCU Member=Component L2 FERRITE
+Added Member To Class: ClassName=01-Power Member=Component LED1 GREEN
+Added Member To Class: ClassName=02-MCU Member=Component LED2 GREEN
+Added Member To Class: ClassName=02-MCU Member=Component LED3 RED
+Added Member To Class: ClassName=05-Alarm Member=Component LED4 RED
+Added Member To Class: ClassName=02-MCU Member=Component P1 Header 13
+Added Member To Class: ClassName=01-Power Member=Component PS1 AP63203WU-7
+Added Member To Class: ClassName=01-Power Member=Component PS2 Isolated PS
+Added Member To Class: ClassName=05-Alarm Member=Component Q1 ="Part Number"
+Added Member To Class: ClassName=05-Alarm Member=Component Q2 ="Part Number"
+Added Member To Class: ClassName=01-Power Member=Component R1 200R0
+Added Member To Class: ClassName=02-MCU Member=Component R2 0R0
+Added Member To Class: ClassName=02-MCU Member=Component R3 10K
+Added Member To Class: ClassName=02-MCU Member=Component R4 0R0
+Added Member To Class: ClassName=01-Power Member=Component R5 0R0
+Added Member To Class: ClassName=02-MCU Member=Component R6 47R0
+Added Member To Class: ClassName=02-MCU Member=Component R7 0R0
+Added Member To Class: ClassName=02-MCU Member=Component R8 10K
+Added Member To Class: ClassName=02-MCU Member=Component R9 10K
+Added Member To Class: ClassName=02-MCU Member=Component R10 10K
+Added Member To Class: ClassName=02-MCU Member=Component R11 200R0
+Added Member To Class: ClassName=02-MCU Member=Component R12 200R0
+Added Member To Class: ClassName=05-Alarm Member=Component R13 200R0
+Added Member To Class: ClassName=05-Alarm Member=Component R14 20R0
+Added Member To Class: ClassName=05-Alarm Member=Component R15 20R0
+Added Member To Class: ClassName=05-Alarm Member=Component R16 20R0
+Added Member To Class: ClassName=05-Alarm Member=Component R17 1K2
+Added Member To Class: ClassName=03-Actuators Member=Component R18 200R0
+Added Member To Class: ClassName=03-Actuators Member=Component R19 200R0
+Added Member To Class: ClassName=03-Actuators Member=Component R20 200R0
+Added Member To Class: ClassName=03-Actuators Member=Component R21 200R0
+Added Member To Class: ClassName=03-Actuators Member=Component R22 200R0
+Added Member To Class: ClassName=03-Actuators Member=Component R23 200R0
+Added Member To Class: ClassName=03-Actuators Member=Component R24 200R0
+Added Member To Class: ClassName=03-Actuators Member=Component R25 200R0
+Added Member To Class: ClassName=02-MCU Member=Component R26 10K
+Added Member To Class: ClassName=01-Power Member=Component R27 0R0
+Added Member To Class: ClassName=04-Sensors Member=Component R28 100K
+Added Member To Class: ClassName=04-Sensors Member=Component R29 0R0
+Added Member To Class: ClassName=04-Sensors Member=Component R30 0R0
+Added Member To Class: ClassName=04-Sensors Member=Component R31 100K
+Added Member To Class: ClassName=04-Sensors Member=Component R32 100K
+Added Member To Class: ClassName=04-Sensors Member=Component R33 0R0
+Added Member To Class: ClassName=04-Sensors Member=Component R34 0R0
+Added Member To Class: ClassName=04-Sensors Member=Component R35 100K
+Added Member To Class: ClassName=04-Sensors Member=Component R36 0R0
+Added Member To Class: ClassName=04-Sensors Member=Component R37 0R0
+Added Member To Class: ClassName=04-Sensors Member=Component R38 100K
+Added Member To Class: ClassName=06-User Interface Member=Component R39 0R0
+Added Member To Class: ClassName=04-Sensors Member=Component R41 100K
+Added Member To Class: ClassName=02-MCU Member=Component R44 200R0
+Added Member To Class: ClassName=06-User Interface Member=Component R45 200R0
+Added Member To Class: ClassName=06-User Interface Member=Component R46 200R0
+Added Member To Class: ClassName=06-User Interface Member=Component R47 200R0
+Added Member To Class: ClassName=06-User Interface Member=Component R48 200R0
+Added Member To Class: ClassName=06-User Interface Member=Component R49 200R0
+Added Member To Class: ClassName=06-User Interface Member=Component R50 200R0
+Added Member To Class: ClassName=01-Power Member=Component RE1 RELAY-SPDT
+Added Member To Class: ClassName=03-Actuators Member=Component RE2 RELAY-SPST
+Added Member To Class: ClassName=02-MCU Member=Component SW1 Tactle switch
+Added Member To Class: ClassName=06-User Interface Member=Component SW2 Tactle switch_1
+Added Member To Class: ClassName=06-User Interface Member=Component SW3 Tactle switch_1
+Added Member To Class: ClassName=06-User Interface Member=Component SW4 Tactle switch_1
+Added Member To Class: ClassName=06-User Interface Member=Component SW5 Tactle switch_1
+Added Member To Class: ClassName=06-User Interface Member=Component SW6 Tactle switch_1
+Added Member To Class: ClassName=06-User Interface Member=Component SW7 Tactle switch_1
+Added Member To Class: ClassName=01-Power Member=Component TP1 TP
+Added Member To Class: ClassName=01-Power Member=Component TP2 TP
+Added Member To Class: ClassName=01-Power Member=Component TP3 TP
+Added Member To Class: ClassName=01-Power Member=Component TP4 TP
+Added Member To Class: ClassName=03-Actuators Member=Component TP5 TP
+Added Member To Class: ClassName=01-Power Member=Component TP6 TP
+Added Member To Class: ClassName=04-Sensors Member=Component TP7 TP
+Added Member To Class: ClassName=04-Sensors Member=Component TP8 TP
+Added Member To Class: ClassName=04-Sensors Member=Component TP9 TP
+Added Member To Class: ClassName=06-User Interface Member=Component TP10 TP
+Added Member To Class: ClassName=06-User Interface Member=Component TP11 TP
+Added Member To Class: ClassName=06-User Interface Member=Component TP12 TP
+Added Member To Class: ClassName=03-Actuators Member=Component U1 NUD3124LT1G
+Added Member To Class: ClassName=06-User Interface Member=Component Y1 2KHZ

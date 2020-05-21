@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: 16.5 mm, 12 Vp-p, 85 dB, Through Hole, Piezo Audio Transducer Buzzer
+3DX_CUI_DEVICES_Model Number: CPT-1667-85T

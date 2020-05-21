@@ -1,0 +1,78 @@
+Added Component: Designator=J2(SHDR2W110P0X500_1X2_1000X830X1140P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-177903-15169663.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-177903-15169663.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16047/1935161-16047247.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16047/1935161-16047247.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/824/combiconcompact5-0mmseries-824222.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/824/combiconcompact5-0mmseries-824222.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper,Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "18A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "17.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Conn Terminal Blocks 2 POS 5mm Solder ST Thru-Hole 16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1935161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Poles"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 0.43000, 10 = 0.41100, 50 = 0.39280, 100 = 0.38200, 250 = 0.35700, 500 = 0.32844, 1000 = 0.30350 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS 1"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "32563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "277-1667-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "320V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.067021oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "14.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "26AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Max)"; Value = "26AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Min)"; Value = "12AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V_ISO Pin=J2-1
+Added Net: Name=12V_ISO
+Added Pin To Net: NetName=ISO_COM Pin=J2-2
+Added Net: Name=ISO_COM
+Added Net: Name=NetM1_1
+Added Net: Name=NetM1_2
+Added Net: Name=NetM1_3
+Added Member To Class: ClassName=Power Member=Component C1 0.1uF
+Added Member To Class: ClassName=Power Member=Component C2 47uF
+Added Member To Class: ClassName=Power Member=Component C3 10uF
+Added Member To Class: ClassName=Power Member=Component C4 22uF
+Added Member To Class: ClassName=Power Member=Component C5 22uF
+Added Member To Class: ClassName=Power Member=Component D1 SK520TR
+Added Member To Class: ClassName=Power Member=Component D2 DF2B26M4SL,L3F
+Added Member To Class: ClassName=Power Member=Component J1 1935161
+Added Member To Class: ClassName=Power Member=Component J2 1935161
+Added Member To Class: ClassName=Power Member=Component L1 3.9uH
+Added Member To Class: ClassName=Power Member=Component PS1 AP63203WU-7
+Added Member To Class: ClassName=Power Member=Component TP1 TP
+Added Member To Class: ClassName=Power Member=Component TP2 TP
+Added Member To Class: ClassName=Power Member=Component TP3 TP

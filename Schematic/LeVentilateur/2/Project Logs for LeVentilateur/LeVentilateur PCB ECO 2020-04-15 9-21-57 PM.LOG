@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=VBAT Pin=D1-1
+Removed Pin From Net: NetName=NetC2_1 Pin=D1-2
+Change Component Footprint: Designator=D1 Old Footprint=DIOM8060X295N New Footprint=FERD20H100SBTR
+Change Component Comment : Designator=D1 Old Comment=SK520TR New Comment=FERD20H100SB-TR
+Change component parameters: Designator = "PS2"; Footprint = "ISO_PS"; UniqueID = "\XIPSFEZS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "LCS-HENIPER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "HL06M12S05A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27"; Footprint = "CAPAE630X580N"; UniqueID = "\QOZYISBN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1809091706_ST-Semtech-CK0J221M-CRE54_C131163.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "LCS-ROQANG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ROQANG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "VT1V470M0605"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1809091706_ST-Semtech-CK0J221M-CRE54_C131163.pdf"; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "LCS-ROQANG"; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ROQANG"; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "VT1V470M0605"; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "LeVentilateur-Proto"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "LeVentilateur-Proto"
+Change component parameters: Designator = "C28"; Footprint = "CAPAE830X1050N"; UniqueID = "\QOPUZZVH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "LCS-ST(Semtech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ST(Semtech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CK1C471M-CRF10"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30"; Footprint = "CAPAE430X580N"; UniqueID = "\UTMSJDOA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1811061120_ST-Semtech-CS1V100M-CRC54_C117835.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "LCS-ST(Semtech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SEMTECH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CS1V100M-CRC54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31"; Footprint = "CAPAE430X580N"; UniqueID = "\OWBWKOMJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/1811061120_ST-Semtech-CS1V100M-CRC54_C117835.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "LCS-ST(Semtech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SEMTECH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CS1V100M-CRC54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC12"; Footprint = "SOIC127P600X175-8N"; UniqueID = "\UBCMJDDV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lmc7660.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LMC7660IM/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "926-LMC7660IM/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LMC7660IM%2FNOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "5360212P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/5360212P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "FERD20H100SBTR"; UniqueID = "\HUGYPNXE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/389/dm00272110-1798832.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FERD20H100SB-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-FERD20H100SB-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-FERD20H100SB-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1241117P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1241117P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=D1-1
+Added Pin To Net: NetName=VBAT Pin=D1-2
+Added Pin To Net: NetName=NetC2_1 Pin=D1-3
+Change Net Color : Old Net Color=RGB(247, 239, 31) New Net Color=Default

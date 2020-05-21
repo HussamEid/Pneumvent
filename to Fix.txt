@@ -1,0 +1,22 @@
+1- 5V inductors are not assigned a correct Footprint (L3-L7)
+2- C2 3D model wrongly assinged 
+3- Female Connector for LCD (use Surface Mount)
+4-MCU decoupling
+5- Schrader to 4mm hose 
+6- Add Fuse to Input
+7- Battery Charging Capabilities
+8- Create mounting hole for correct size of a screw
+9-An additional pressure sensor needs to be added for Air or oxygen valves
+10- Air Hose Coupler
+11- SW cutout not accurate for LCD screen since LCD screen model is wrong
+
+Possible Batteries:
+EV24A-A  $281
+Ian potter 289-383-0566 for large quantities
+
+Breathing tubes, intersurgical:
+Contact, William VanZweeden @ 416-666-0424
+
+Adapters needded for hose
+5346K82
+5225k719

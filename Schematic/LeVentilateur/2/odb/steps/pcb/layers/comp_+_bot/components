@@ -1,0 +1,16 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 23 7.715 3.68 90 N LED4 RED ;0=1,1=0.0000
+TOP 0 7.715 3.73807 180 N 94 0 LED4-1
+TOP 1 7.715 3.638662 90 N 113 5 LED4-2
+#
+# CMP 1
+CMP 3 8.19 2.9660531 180 N B1 Buzzer ;0=2,1=0.0000
+TOP 0 8.19 2.966054 0 N 118 20 B1-1
+TOP 1 8.62307 2.966054 0 N 112 1 B1-2
+#
